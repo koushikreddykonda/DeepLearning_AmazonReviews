@@ -1,4 +1,8 @@
 # DeepLearning_AmazonReviews
+
+I cannot upload code here, as this is a public repository and I have completed this project as part of a course and Professor told to not upload code in public repository.
+I have a private repository of this projects' code and I can share with individuals. Thank you
+
 [AmazonReviewsClassification_DeepLearning.pdf](https://github.com/koushikreddykonda/DeepLearning_AmazonReviews/files/12555424/AmazonReviewsClassification_DeepLearning.pdf)
 
 
